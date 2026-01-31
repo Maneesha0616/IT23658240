@@ -168,9 +168,9 @@ All test cases are documented in the Excel file using the template format:
 
 ## Author Information
 
-**Student Registration Number:** [Your Registration Number]  
+**Student Registration Number:** IT23658240  
 **Course:** BSc (Hons) in Information Technology - Year 3  
-**Module:** IT3040 - ITPM Semester 1  
+**Module:** IT3040 - ITPM  
 **Assignment:** Assignment 1
 
  Git repository link- https://github.com/Maneesha0616/IT23658240
