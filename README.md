@@ -78,9 +78,7 @@ npx playwright test --headed
 
 ### Run specific test file
 ```bash
-npx playwright test tests/positive-functional.spec.js
-npx playwright test tests/negative-functional.spec.js
-npx playwright test tests/ui-tests.spec.js
+npx playwright test tests/IT23658240 - transliteration.spec.js
 ```
 
 ### Run tests in debug mode
